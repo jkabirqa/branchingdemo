@@ -15,4 +15,5 @@ elif operation == '*':
 elif operation == '/' and num2 != 0:
     print(f"Result: {num1 / num2}")
 else:
+ppp
     print("Invalid operation or division by zero.")
